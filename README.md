@@ -179,8 +179,8 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 
 <img align="right" 
      alt="coder cat" 
-     src="https://github.com/user-attachments/assets/b0fff3ad-0731-4a0f-bef6-595a9e7bc74f" 
-     width="150" height="150" />
+     src="gaurav6.png" 
+     width="200" height="200" />
 
      
 <p>“Aspiring Java Full Stack Developer with knowledge in C/C++, Core Java, Core Python, DBMS, MySQL, Web Development, and a strong interest in Artificial Intelligence & Machine Learning. 
