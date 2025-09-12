@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://gkrbbu2002.github.io/My-logo/">
+    <img src="https://gkrbbu2002.github.io/My-logo/" alt="Gaurav Kumar Logo" width="200"/>
+  </a>
+</p>
+
+
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Gaurav Kumar — a Software Engineer 👨‍💻
 [![Website Badge](https://img.shields.io/badge/-g.dev/Gauravx-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://g.dev/Gauravx)
 [![Linkedin Badge](https://img.shields.io/badge/-gaurav--kumarx-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumarx)
@@ -5,6 +12,7 @@
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5) 
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
   
   
 ### Glad to see you here!
