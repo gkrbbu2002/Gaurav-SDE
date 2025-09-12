@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://gkrbbu2002.github.io/My-logo/">
-    <img src="https://gkrbbu2002.github.io/My-logo/" alt="Gaurav Kumar Logo" width="200"/>
-  </a>
-</p>
-
 
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Gaurav Kumar — a Software Engineer 👨‍💻
 [![Website Badge](https://img.shields.io/badge/-g.dev/Gauravx-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://g.dev/Gauravx)
