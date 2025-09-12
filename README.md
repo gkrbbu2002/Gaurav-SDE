@@ -1,5 +1,4 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Gaurav Kumar — a Software Engineer 👨‍💻
-
 [![Website Badge](https://img.shields.io/badge/-g.dev/Gauravx-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://g.dev/Gauravx)
 [![Linkedin Badge](https://img.shields.io/badge/-gaurav--kumarx-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumarx)
 [![Twitter Badge](https://img.shields.io/twitter/follow/gaurav_swe)](https://twitter.com/@gaurav_swe)
